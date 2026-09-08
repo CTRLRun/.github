@@ -30,9 +30,9 @@ Five ways an agent action goes wrong and what stops each one, in under a second,
 
 ### What we build
 
-| | |
-|---|---|
-| **[ctrlrun](https://github.com/CTRLRun/ctrlrun)** | A Python library that sits between the decision to act and the call that acts. A consequential action happens at most once, exactly as approved, and leaves a receipt. Apache-2.0. |
+**[ctrlrun](https://github.com/CTRLRun/ctrlrun)** — a Python library that sits between the
+decision to act and the call that acts. A consequential action happens at most once, exactly as
+approved, and leaves a receipt. Apache-2.0.
 
 Runs on a single SQLite file, or on Postgres across hosts. The core installs `pyyaml` and `click`
 and nothing else. Framework adapters, an MCP gateway, OpenTelemetry and JWT identity ship as
