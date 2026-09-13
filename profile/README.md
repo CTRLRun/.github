@@ -44,12 +44,7 @@ ship as optional extras.
 
 ### Start here
 
-- **[ctrlrun.dev](https://ctrlrun.dev)**: docs, and [why](https://ctrlrun.dev/docs/why) in 700 words
-- **[Try it in the browser](https://ctrlrun.dev/docs/try-it)**: no Python; break a protected action in a tab
-- **[The execution boundary](https://ctrlrun.dev/execution-boundary)**: follow one action through every check
+- **[docs.ctrlrun.dev](https://docs.ctrlrun.dev/)**: the documentation, and [why](https://docs.ctrlrun.dev/why) in 700 words
+- **[Try it in the browser](https://docs.ctrlrun.dev/try-it)**: no Python; break a protected action in a tab
 - **[Where it stops](https://github.com/CTRLRun/ctrlrun#what-it-does)**: the limits, written down
 - **[Discussions](https://github.com/CTRLRun/ctrlrun/discussions)** · **[Security policy](https://github.com/CTRLRun/ctrlrun/security/policy)**
-
-<p align="center">
-  Let agents act. <strong>Keep the consequences yours to decide.</strong>
-</p>
